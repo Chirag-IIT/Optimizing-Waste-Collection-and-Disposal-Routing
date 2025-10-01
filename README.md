@@ -78,16 +78,16 @@ Efficiently routing waste collection and disposal vehicles is critical for susta
 ![Pickup Nodes](./Pickup%20Nodes%20(Before%20Routing).png)
 
 ### Vehicle Routes for Pickup CVRPTW  
-![Vehicle Routes for Pickup CVRPTW](uploaded-image-2.png)
+![Vehicle Routes for Pickup CVRPTW](./Vehicle%20Routes%20for%20Pickup%20CVRPTW.png)
 
 ### Delivery Nodes (Before Routing)  
 ![Delivery Nodes](./Delivery%20Nodes%20(Before%20Routing).png)
 
 ### Vehicle Routes for Delivery CVRPTW
-![Vehicle Routes for Delivery CVRPTW](uploaded-image-3.png)
+![Vehicle Routes for Delivery CVRPTW](./Vehicle%20Routes%20for%20Delivery%20CVRPTW%20.png)
 
 ### Sensitivity Analysis: VRP (Pickup and Delivery)
-![Sensitivity Analysis VRP](uploaded-image-1.png)
+![Sensitivity Analysis VRP](./Sensitivity%20Analysis:%20VRP.png)
 
 ---
 
