@@ -72,6 +72,19 @@ Efficiently routing waste collection and disposal vehicles is critical for susta
 
 ---
 
+## 📸 Visualizations  
+
+### Vehicle Routes for Pickup CVRPTW  
+![Vehicle Routes for Pickup CVRPTW](./Vehicle%20Routes%20for%20Pickup%20CVRPTW.png)
+
+### Pickup Nodes (Before Routing)  
+![Pickup Nodes](./Pickup%20Nodes%20(Before%20Routing).png)
+
+### Delivery Nodes (Before Routing)  
+![Delivery Nodes](./Delivery%20Nodes%20(Before%20Routing).png)
+
+---
+
 ## 📝 Usage Notes  
 1. Install dependencies (e.g. `pandas`, `numpy`, solver API)  
 2. Run `Code for Problem.ipynb` step by step  
@@ -82,7 +95,4 @@ Efficiently routing waste collection and disposal vehicles is critical for susta
 
 ## 👤 Author  
 **Chirag Agarwal**  
-[GitHub](https://github.com/Chirag-IIT) • [LinkedIn](https://linkedin.com/)  
-
----
-
+[GitHub](https://github.com/Chirag-IIT) • [LinkedIn](https://www.linkedin.com/in/chirag-agarwal-iit
