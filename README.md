@@ -89,15 +89,6 @@ Efficiently routing waste collection and disposal vehicles is critical for susta
 ### Sensitivity Analysis: VRP (Pickup and Delivery)
 ![Sensitivity Analysis VRP](uploaded-image-1.png)
 
-### Sensitivity Analysis: VRP (Pickup and Delivery)
-![Sensitivity Analysis VRP](uploaded-image-1.png)
-
-### Vehicle Routes for Pickup CVRPTW  
-![Vehicle Routes for Pickup CVRPTW](uploaded-image-2.png)
-
-### Vehicle Routes for Delivery CVRPTW
-![Vehicle Routes for Delivery CVRPTW](uploaded-image-3.png)
-
 ---
 
 ## 📝 Usage Notes  
