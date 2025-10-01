@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Overview  
-Efficiently routing waste collection and disposal vehicles is critical for sustainable urban management. This project frames the problem as a Vehicle Routing Problem with Time Windows (VRP-TW) to minimize total cost, travel distance, or time while satisfying pickup/delivery constraints. It combines mathematical modeling with heuristic and exact methods to derive feasible, near-optimal routes for waste collection and disposal.
+Efficiently routing waste collection and disposal vehicles is critical for sustainable urban management. This project frames the problem as a Vehicle Routing Problem with Time Windows (VRP-TW) to minimize operational costs and improve service efficiency.
 
 ---
 
@@ -74,14 +74,20 @@ Efficiently routing waste collection and disposal vehicles is critical for susta
 
 ## 📸 Visualizations  
 
-### Vehicle Routes for Pickup CVRPTW  
-![Vehicle Routes for Pickup CVRPTW](./Vehicle%20Routes%20for%20Pickup%20CVRPTW.png)
-
 ### Pickup Nodes (Before Routing)  
 ![Pickup Nodes](./Pickup%20Nodes%20(Before%20Routing).png)
 
+### Vehicle Routes for Pickup CVRPTW  
+![Vehicle Routes for Pickup CVRPTW](uploaded-image-2.png)
+
 ### Delivery Nodes (Before Routing)  
 ![Delivery Nodes](./Delivery%20Nodes%20(Before%20Routing).png)
+
+### Vehicle Routes for Delivery CVRPTW
+![Vehicle Routes for Delivery CVRPTW](uploaded-image-3.png)
+
+### Sensitivity Analysis: VRP (Pickup and Delivery)
+![Sensitivity Analysis VRP](uploaded-image-1.png)
 
 ---
 
@@ -95,4 +101,4 @@ Efficiently routing waste collection and disposal vehicles is critical for susta
 
 ## 👤 Author  
 **Chirag Agarwal**  
-[GitHub](https://github.com/Chirag-IIT) • [LinkedIn](https://www.linkedin.com/in/chirag-agarwal-iit
+[GitHub](https://github.com/Chirag-IIT) • [LinkedIn](https://www.linkedin.com/in/chirag-agarwal-iit)
